@@ -1,0 +1,31 @@
+@echo off
+
+echo *************************************
+echo ****** brincando com o batch ********
+echo *************************************
+pause
+
+echo *************************************
+echo ***** vamos fazer um scan do c:\ ****
+echo *************************************
+pause
+
+tree /f /a C:\windows
+
+pause
+cls
+
+
+
+echo *************************************
+echo *****     Todos seus arquivos   *****
+echo ***** foram deletados com sucesso ***
+echo *************************************
+pause
+cls
+
+echo *************************************
+echo *****  brincadeirinhaaaaaaaaa   *****
+echo *****    Nada foi deletado      *****
+echo *************************************
+pause
